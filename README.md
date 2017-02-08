@@ -4,7 +4,7 @@ Hack Oregon Transportation project for 2016-2017!
 
 ## What needs to be done?
 
-* Check out the [weekly goals](https://github.com/hackoregon/transportation-backend/wiki/Weekly-Goals) in the backend repo.
+* Check out the [weekly goals](https://github.com/hackoregon/transportation/wiki/Weekly-Goals) in the wiki.
 
 ## Repositories
 
