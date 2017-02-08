@@ -19,8 +19,13 @@ Service APIs
 ```
 GET / - list of data files  
 GET /<id>.geojson - geojson file for datasets
+GET /?source=<source>&bb=<bounding box>&daterange=<daterange>
 ```
 
 ## Backend Jobs
 
-**TODO**
+* Create three main Django models that will serve the APIs, one each for points, lines, and polygons.
+* Rewrite/Create ingest scripts to transfer data from the stored json files to one of the three main tables.
+* Create APIs to serve all data from three main models.
+* Create APIs to filter data by date, source, and location.
+
